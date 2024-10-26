@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
 
+# Ignorar arquivos de configuração do Eclipse
+.project
+.classpath
+.settings/
+
 # Log file
 *.log
 
